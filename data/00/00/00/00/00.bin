@@ -1,0 +1,179 @@
+                                     .
+ ________.         ________          :__________            karl*    _____\___.
+_\       |________/       /_________ |        _/________\________   /     \\  |
+_\\      |       /      _/_\ _      \|       /     _     \       \ //      \\ |
+|\\      |     _//     ___/_\\     \ \      //     |     _\     \ \/ /     _\\|
+| \\     :      /      |      \     \     _//      :      \\     \  /|      \\_
+|__\\__________/_______________\____|\_____/_______________\_____|\/ |_______\
+ <:-\-------------------------------------/--------------------------:------:-
+  .                                                                  .      |
+  |     P r o u d l y   P r e s e n t s                                     |
+  |   - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -   |
+  |                                                                         |
+  |       Title : Wolfenstein: Youngblood (Update v1.3)                     |
+  |                                                                         |
+  |   Publisher : Bethesda Softworks          Platform : Nintendo Switch    |
+  |   Developer : MachineGames                  Origin : eShop              |
+  |       Genre : First-Person / Action       Title ID : 01003BD00CAAE800   |
+  :        Date : September 2019                Format : 68x50MB / NSP      |
+  .__                                                                     //|
+  | /---------------------------------------------------------------------/_:
+  |//                                                                       .
+  |     R e l e a s e   N o t e s                                           |
+  |   - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -   |
+  |                                                                         |
+  |   Nineteen years after the events of Wolfenstein II, BJ Blazckowicz     |
+  |   has disappeared after a mission into Nazi-occupied Paris. Now,        |
+  |   after years of training from their battle-hardened father, BJ's       |
+  |   twin daughters, Jess and Soph Blazkowicz, are forced into action.     |
+  |                                                                         |
+  |   Team up with a friend or play alone. Level up, explore, and           |
+  |   complete missions to unlock new abilities, weapons, gadgets,          |
+  |   cosmetics, and more to complement your playstyle and customize your   |
+  |   appearance.                                                           |
+  |                                                                         |
+  |   Wolfenstein: Youngblood features the most open-ended Wolfenstein      |
+  |   experience to date. From a new base of operations located deep in     |
+  |   the heart of the Paris catacombs, plan how and when to attack and     |
+  |   dismantle the Nazi regime.                                            |
+  |                                                                         |
+  |   Languages: English, French, Italian, Spanish, Russian, Korean and     |
+  |   Chinese.                                                              |
+  |                                                                         |
+  |   Notes: If you are on FW 8.1.0 or lower (Masterkey 7) use your         |
+  |   favorite installer to ignore the FW requirement / or the latest CFW   |
+  |   version of your liking that supports FW 9.0.0.                        |
+  |                                                                         |
+  |   Update/Patch Notes: v1.3 (v196608) - Firmware: 9.0.0 / Mkey 7.0.      |
+  |                                                                         |
+  |   * Patch Highlights                                                    |
+  |                                                                         |
+  |   * Adjusted difficulty of all boss fights                              |
+  |                                                                         |
+  |   * Enemies can now have their health bars toggled on or off in the     |
+  |     Options menu. (This does not turn off armor types.)                 |
+  |                                                                         |
+  |   * Took a variety of actions to reduce the feeling of enemy "bullet    |
+  |     sponginess"                                                         |
+  |                                                                         |
+  |   * An amount of ammo for basic weapons is now replenished after a      |
+  |     player respawns                                                     |
+  |                                                                         |
+  |   * Added more special weapon ammo throughout more difficult areas      |
+  |                                                                         |
+  |   * Added duplicate tutorial laptops to the game to make 100%           |
+  |     completion more attainable                                          |
+  |                                                                         |
+  |   * Fixed an issue that could cause some enemies in certain areas to    |
+  |     spawn prematurely                                                   |
+  |                                                                         |
+  |   * Increased the speed of switching between certain weapons to make    |
+  |     it easier to adapt to enemy armor types                             |
+  |                                                                         |
+  |   * Bug fixes                                                           |
+  |                                                                         |
+  |   * Client players can now explode Host player DKW charges by           |
+  |     shooting them                                                       |
+  |                                                                         |
+  |   * A data tape required to complete the Silent Outpost mission could   |
+  |     go missing, preventing completion of the mission. This tape will    |
+  |     now appear correctly for all players                                |
+  |                                                                         |
+  |   * Equalized damage modifiers for all weapon classes and upgrades      |
+  |     for Host and Client players. Previously a bug could cause one       |
+  |     player to do a lot more damage with certain weapon types and        |
+  |     upgrades                                                            |
+  |                                                                         |
+  |   * The "available unlocks" and message could play despite there        |
+  |     being active enemies. This will no longer occur                     |
+  |                                                                         |
+  |   * Fixed a variety of timing bugs with completion events that could    |
+  |     cause progression not to be saved in certain circumstances          |
+  |                                                                         |
+  |   * Co-op levers will now work much more reliably when playing solo     |
+  |                                                                         |
+  |   * Improved sister AI so that she gets out of the way of large         |
+  |     enemies more often and improved ability to successfully heal the    |
+  |     player when they are downed                                         |
+  |                                                                         |
+  |   * Balance changes                                                     |
+  |                                                                         |
+  |   * Tutorials not collected by players in Paris Streets sections 1 or   |
+  |     2 will now be present in Paris Streets section 3. This will allow   |
+  |     players to backtrack from later sections of the game in order to    |
+  |     get tutorials that count towards game completion percentage         |
+  |                                                                         |
+  |   * Added checkpoints to all Tower mission and Tower Guardian fights.   |
+  |     Note that returning to the towers after completing the main         |
+  |     missions will not have checkpoints                                  |
+  |                                                                         |
+  |   * Players who expend all lives and reset to the latest checkpoint     |
+  |     will now find their base weapons refilled to at least 50% of ammo   |
+  |     capacity. This will function with all ammo modifier skills and      |
+  |     upgrades but does not affect special or heavy weapons               |
+  |                                                                         |
+  |   * Additional special weapon ammo has been added to all boss and       |
+  |     guardian fights                                                     |
+  |                                                                         |
+  |   * We have doubled the amount of damage done to armored enemies by     |
+  |     the incorrect weapon type. This will result in enemies feeling      |
+  |     much less absorptive of damage when the player has the wrong        |
+  |     weapon equipped. We still highly encourage players to spend their   |
+  |     silver to upgrade a variety of weapon types so as to maximize       |
+  |     damage to tough enemies                                             |
+  |                                                                         |
+  |   * General Winkler has had his health lowered to be more in line       |
+  |     with the difficulty of the Zeppelin level                           |
+  |                                                                         |
+  |   * The Bombdog damage has been slightly lowered                        |
+  |                                                                         |
+  |   * The base Shotgun, Autopistol, and SMG damage output has been        |
+  |     increased to bring them in line with other basic weapons            |
+  |                                                                         |
+  |   * Tower Gate Guardians have had their level lowered in all            |
+  |     Districts to better reflect the level of enemies inside the         |
+  |     Towers. The Towers are still intended to be played by players       |
+  |     level 20 or higher                                                  |
+  |                                                                         |
+  |   * Added the ability to toggle "iron sights" on/off. This option can   |
+  |     be found in the Controls menu                                       |
+  |                                                                         |
+  |   * Added the option to turn off enemy health bars to the Gameplay      |
+  |     options. Note that this will not turn off armor barriers or enemy   |
+  |     level, so we recommend players have a high degree of familiarity    |
+  |     with enemies before turning health bars off                         |
+  |                                                                         |
+  |   * Added more than 20 additional duplicate tutorials to the            |
+  |     Districts to allow for easier game completion as well as better     |
+  |     coverage for new players                                            |
+  |                                                                         |
+  |   * Added a unique icon for Tutorial Computers when player has the      |
+  |     correct Secrets Collector upgrade                                   |
+  |                                                                         |
+  |   * Lowered Lothar's healthpoints during the "Penthouse" stage of the   |
+  |     boss                                                                |
+  |                                                                         |
+  |   * Made a variety of changes to Lothar's accuracy and damage during    |
+  |     his final stage                                                     |
+  |                                                                         |
+  |   * Added an alarm and audio cue for the 4th Reich jet planes during    |
+  |     the Lothar fight to give players more of a chance to dodge or       |
+  |     shoot down the planes                                               |
+  |                                                                         |
+  |   * Reduced the number of missiles during the Lothar flight stage       |
+  :                                                                         |
+  .__                                                                     //|
+  | /---------------------------------------------------------------------/_:
+  |//                                                                       .
+  |     G r e e t i n g s                                                   |
+  |   - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -   |
+  |                                                                         |
+  |            Abstrakt . Anthrox . Capital . Caravan . Complex             |
+  |    Dual Crew Shining . Duplex . Echelon . Eurasia . Kalisto . Legacy    |
+  |    Lightforce . Menace . Miracle . Mode 7 . Money . Mystic . Napalm     |
+  |    Nightfall . Oldskool . Paradox . Premiere . Project X . Protocol     |
+  |      Quartex . Quasar . Rising Sun . Scoopex . Sneakers . Triforce      |
+  |                                                                         |
+ -:-------------------------------------------------------------------------:>
+  |                                                                         |
+  .                    VENOM - Still young! Since 2001.                     .
